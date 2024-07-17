@@ -1,7 +1,4 @@
-# MESO_2025
-
-
-# Intra-tumoral T cells in pediatric brain tumors display clonal expansion and effector properties
+# Intra-tumoral T cells in adult Mesothelioma
 ------------
 
 Description
